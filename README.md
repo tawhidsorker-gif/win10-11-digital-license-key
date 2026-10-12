@@ -1,11 +1,9 @@
 <div align="center">
 # 🪟 Windows 10 & 11 Pro Digital License Key
-[![Price](https://img.shields.io/badge/Price-%245.99-green.svg)](https://github.com/tawhidsorker-gif/win10-11-digital-license-key-cart)
-[![Status](https://img.shields.io/badge/Status-In%20Stock%20%F0%9F%9F%A2-brightgreen.svg)](https://github.com/tawhidsorker-gif/win10-11-digital-license-key-cart)
-[![Delivery](https://img.shields.io/badge/Delivery-Instant-blue.svg)](https://github.com/tawhidsorker-gif/win10-11-digital-license-key-cart)
-Get your **100% Genuine Permanent Digital License** for Windows 10 & 11 Pro at an unbeatable price!
+<p>Get your <b>100% Genuine Permanent Digital License</b> for Windows 10 & 11 Pro at an unbeatable price!</p>
 <br>
-[![PURCHASE NOW](https://img.shields.io/badge/🛒_PURCHASE_NOW_($5.99)-2ea44f?style=for-the-badge&logo=shopping-cart&logoColor=white)](https://github.com/tawhidsorker-gif/win10-11-digital-license-key-cart)
+<!-- সুন্দর HTML পার্চেস বাটন -->
+<a href="https://github.com/tawhidsorker-gif/win10-11-digital-license-key-cart" style="background-color: #2ea44f; color: white; padding: 12px 24px; text-decoration: none; font-weight: bold; border-radius: 6px; display: inline-block; font-size: 16px;">🛒 PURCHASE NOW ($5.99)</a>
 </div>
 ---
 ## 🚀 Product Features
@@ -28,5 +26,7 @@ Get your **100% Genuine Permanent Digital License** for Windows 10 & 11 Pro at a
 3. Receive your digital license key instantly!
 ---
 <div align="center">
-[![CLICK TO PURCHASE](https://img.shields.io/badge/👉_CLICK_HERE_TO_PURCHASE_LICENSE-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tawhidsorker-gif/win10-11-digital-license-key-cart)
+<!-- নিচের দিকের আরেকটি বাটন -->
+<br>
+<a href="https://github.com/tawhidsorker-gif/win10-11-digital-license-key-cart" style="background-color: #238636; color: white; padding: 12px 24px; text-decoration: none; font-weight: bold; border-radius: 6px; display: inline-block; font-size: 16px;">👉 CLICK HERE TO PURCHASE LICENSE</a>
 </div>
