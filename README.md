@@ -1,10 +1,11 @@
 <div align="center">
 # 🪟 Windows 10 & 11 Pro Digital License Key
-[![Price](https://img.shields.io/badge/Price-%245.99-green.svg)](https://t.me/tawfiq_sorker)
-[![Status](https://img.shields.io/badge/Status-In%20Stock%20%F0%9F%9F%A2-brightgreen.svg)](https://t.me/tawfiq_sorker)
-[![Delivery](https://img.shields.io/badge/Delivery-Instant-blue.svg)](https://t.me/tawfiq_sorker)
-[![Activation](https://img.shields.io/badge/Activation-Lifetime-orange.svg)](https://t.me/tawfiq_sorker)
+[![Price](https://img.shields.io/badge/Price-%245.99-green.svg)](https://github.com/tawhidsorker-gif/win10-11-digital-license-key-cart)
+[![Status](https://img.shields.io/badge/Status-In%20Stock%20%F0%9F%9F%A2-brightgreen.svg)](https://github.com/tawhidsorker-gif/win10-11-digital-license-key-cart)
+[![Delivery](https://img.shields.io/badge/Delivery-Instant-blue.svg)](https://github.com/tawhidsorker-gif/win10-11-digital-license-key-cart)
 Get your **100% Genuine Permanent Digital License** for Windows 10 & 11 Pro at an unbeatable price!
+<br>
+### 🛒 [👉 Click Here to Purchase ($5.99)](https://github.com/tawhidsorker-gif/win10-11-digital-license-key-cart)
 </div>
 ---
 ## 🚀 Product Features
@@ -21,10 +22,12 @@ Get your **100% Genuine Permanent Digital License** for Windows 10 & 11 Pro at a
 | **Windows 10 / 11 Pro** | **$5.99** | Lifetime Digital Key | **In Stock ✅** |
 
 ---
-## 🛒 How to Order
-1. Contact via Telegram: **[@tawfiq_sorker](https://t.me/tawfiq_sorker)**
-2. Complete the payment of **$5.99**.
+## 🛍️ How to Get Your Key
+1. Click the **Purchase** button or link above to open the checkout page.
+2. Review the product details and complete your order.
 3. Receive your digital license key instantly!
 ---
-## 🔒 Guarantee & Support
-If you face any issues during activation, full support or replacement will be provided.
+<div align="center">
+### Ready to Upgrade Your PC?
+[![PURCHASE NOW](https://img.shields.io/badge/🛒_PURCHASE_LICENSE_($5.99)-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tawhidsorker-gif/win10-11-digital-license-key-cart)
+</div>
