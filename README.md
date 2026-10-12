@@ -28,5 +28,6 @@
 <div align="center">
 <!-- নিচের দিকের আরেকটি বাটন -->
 <br>
-<a href="https://github.com/tawhidsorker-gif/tawhid-microsoft-activation" style="background-color: #238636; color: white; padding: 12px 24px; text-decoration: none; font-weight: bold; border-radius: 6px; display: inline-block; font-size: 16px;">👉 CLICK HERE TO FREE LICENSE</a>
+<a href="https://github.com/tawhidsorker-gif/tawhid-microsoft-activation" style="background-color: #238636; color: white; padding: 12px 24px; text-decoration: none; font-weight: bold; border-radius: 6px; display: inline-block; font-size: 16px;">👉 
+ads</a>
 </div>
